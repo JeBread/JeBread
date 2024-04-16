@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/삼성청년SW아카데미(SSAFY)-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/삼성_청년_SW아카데미(SSAFY)-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
 
 <!--
 **JeBread/JeBread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
