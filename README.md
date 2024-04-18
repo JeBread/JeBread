@@ -3,6 +3,8 @@
 <a href="https://velog.io/@sangje112/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a> <br>
 <img src="https://img.shields.io/badge/삼성_청년SW아카데미(SSAFY 9th)-1428A0?style=flat-square&logo=Samsung&logoColor=white"/> <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeBread&show_icons=true&theme=radical)
+
 
  <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <br>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <br> 
