@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/삼성_청년SW아카데미(SSAFY 9th)-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 <!--
