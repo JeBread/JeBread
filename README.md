@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=202632&height=300&section=header&text=JeBread&fontSize=90&fontColor=0064ff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=202632&height=300&section=header&text=JeBread&fontSize=80&fontColor=0064ff)
 <a href="https://velog.io/@sangje112/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-202632?style=for-the-badge&logo=Velog&logoColor=20C997"/></a> <br>
 <img src="https://img.shields.io/badge/삼성_청년SW아카데미(SSAFY 9th)-0064ff?style=for-the-badge&logo=Samsung&logoColor=ffffff"/> <br>
 
