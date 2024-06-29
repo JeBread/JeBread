@@ -8,8 +8,11 @@
 
 ### ✨ Tech Stacks ✨
 
-<p><img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" /><p/>
+<p>
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Next.js-ffffff.svg?style=for-the-badge&logo=Next.js&logoColor=202632" />
+<p/>
 
 
 
