@@ -1,4 +1,3 @@
-### JeBread 👋
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=202632&height=300&section=header&text=JeBread&fontSize=90&fontColor=0064ff)
 
