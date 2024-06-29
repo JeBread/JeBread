@@ -38,6 +38,6 @@
 <p>
   <img src="https://img.shields.io/badge/styledcomponents-20232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" />
   <img src="https://img.shields.io/badge/framer-20232a.svg?style=for-the-badge&logo=framer&logoColor=0055FF" />
-  <img src="https://img.shields.io/badge/Next.js-ffffff.svg?style=for-the-badge&logo=nextdotjs&logoColor=202632" />
+  <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178c6" />
 </p>
