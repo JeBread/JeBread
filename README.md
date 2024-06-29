@@ -2,10 +2,6 @@
 <a href="https://velog.io/@sangje112/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-202632?style=for-the-badge&logo=Velog&logoColor=20C997"/></a> <br>
 <img src="https://img.shields.io/badge/삼성_청년SW아카데미(SSAFY 9th)-0064ff?style=for-the-badge&logo=Samsung&logoColor=ffffff"/> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeBread&langs_count=5&layout=compact&theme=dark)](https://github.com/JeBread/JeBread)
-
-
-
 ### ✨ Tech Stacks ✨
 
 <p>
@@ -41,3 +37,5 @@
   <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178c6" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeBread&langs_count=5&layout=compact&theme=dark)](https://github.com/JeBread/JeBread)
