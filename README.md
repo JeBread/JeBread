@@ -16,5 +16,11 @@
   <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <p/>
 
+<p>
+  <img src="https://img.shields.io/badge/tailwind-20232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/nextui-20232a.svg?style=for-the-badge&logo=nextui&logoColor=ffffff" />
+  
+</p>
+
 
 
