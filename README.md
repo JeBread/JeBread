@@ -9,9 +9,11 @@
 ### ✨ Tech Stacks ✨
 
 <p>
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Next.js-ffffff.svg?style=for-the-badge&logo=nextdotjs&logoColor=202632" />
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Next.js-ffffff.svg?style=for-the-badge&logo=nextdotjs&logoColor=202632" />
+  <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+  <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <p/>
 
 
