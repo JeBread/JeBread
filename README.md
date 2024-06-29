@@ -20,7 +20,7 @@
 <p>
   <img src="https://img.shields.io/badge/tailwind-20232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/nextui-ffffff.svg?style=for-the-badge&logo=nextui&logoColor=202632" />
+  <img src="https://img.shields.io/badge/nextui-20232a.svg?style=for-the-badge&logo=nextui&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/mui-20232a.svg?style=for-the-badge&logo=mui&logoColor=007FFF" />
 </p>
 
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/django-20232a.svg?style=for-the-badge&logo=django&logoColor=092E20" />
   <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/gitlab-20232a.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
-  <img src="https://img.shields.io/badge/github-ffffff.svg?style=for-the-badge&logo=github&logoColor=181717" />
+  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/jira-20232a.svg?style=for-the-badge&logo=jira&logoColor=0052CC" />
 </p>
 
