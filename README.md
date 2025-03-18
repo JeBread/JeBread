@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178c6" />
   <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/axios-20232a.svg?style=for-the-badge&logo=axios&logoColor=5A29E4" />
+  <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178c6" />
 <p/>
 
 <p>
@@ -34,8 +35,7 @@
 <p>
   <img src="https://img.shields.io/badge/styledcomponents-20232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" />
   <img src="https://img.shields.io/badge/framer-20232a.svg?style=for-the-badge&logo=framer&logoColor=0055FF" />
-  <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeBread&langs_count=5&layout=compact&theme=dark)](https://github.com/JeBread/JeBread)
