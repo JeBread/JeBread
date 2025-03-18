@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178c6" />
   <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/axios-20232a.svg?style=for-the-badge&logo=axios&logoColor=5A29E4" />
-  <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178c6" />
 <p/>
 
 <p>
@@ -28,14 +27,6 @@
   <img src="https://img.shields.io/badge/gitlab-20232a.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/jira-20232a.svg?style=for-the-badge&logo=jira&logoColor=0052CC" />
-</p>
-
-### 📚 Studying 📚
-
-<p>
-  <img src="https://img.shields.io/badge/styledcomponents-20232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" />
-  <img src="https://img.shields.io/badge/framer-20232a.svg?style=for-the-badge&logo=framer&logoColor=0055FF" />
-
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeBread&langs_count=5&layout=compact&theme=dark)](https://github.com/JeBread/JeBread)
