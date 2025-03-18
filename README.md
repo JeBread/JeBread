@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />
   <img src="https://img.shields.io/badge/nextui-20232a.svg?style=for-the-badge&logo=nextui&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/mui-20232a.svg?style=for-the-badge&logo=mui&logoColor=007FFF" />
+  <img src="https://img.shields.io/badge/reactquery-20232a.svg?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
 </p>
 
 <p>
